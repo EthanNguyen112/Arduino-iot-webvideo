@@ -6,3 +6,13 @@ Hardware for the doorbell will be a speaker connected to an LM386(amplifer to in
 a 12v powersupply will be attached to the arduino.
 an LCD screen and button will be attached  to the arduino.
 an camera module(ov7670) will be attached and send information in Uart RX Tx. 
+
+have on and low power mode (pwm implemintation)
+on will send information provided by the camera onto the cloud (IOT device)
+information can be viewed from any monitor that can connect to the cloud
+the cloud will have a user and password to it.
+
+
+Extra features if time avaliable:
+a sensor that will turn on and send a notification to the device
+
