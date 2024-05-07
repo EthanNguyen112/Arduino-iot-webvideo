@@ -19,3 +19,6 @@ a sensor that will turn on and send a notification to the device
 (youtube video based on)
 https://www.youtube.com/watch?v=R94WZH8XAvM&t=325s&ab_channel=Indrek
 
+Autodesk Fusion will be used to create the schematic
+
+
