@@ -14,6 +14,7 @@ information can be viewed from any monitor that can connect to the cloud
 the cloud will have a user and password to it.
 
 
+
 Extra features if time avaliable:
 a sensor that will turn on and send a notification to the device
 
@@ -21,5 +22,12 @@ a sensor that will turn on and send a notification to the device
 https://www.youtube.com/watch?v=R94WZH8XAvM&t=325s&ab_channel=Indrek
 
 Autodesk Fusion will be used to create the schematic
+
+Part two would be creating a server possibly with IoT applications help with ESP8266-01 MODULE
+
+
+
+
+
 
 
