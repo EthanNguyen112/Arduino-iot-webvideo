@@ -25,6 +25,9 @@ Autodesk Fusion will be used to create the schematic
 
 Part two would be creating a server possibly with IoT applications help with ESP8266-01 MODULE
 
+server should be compatibale with any device that can connect to the internet.
+
+
 
 
 
