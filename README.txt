@@ -27,6 +27,8 @@ Part two would be creating a server possibly with IoT applications help with ESP
 
 server should be compatibale with any device that can connect to the internet.
 
+iot would be part of connecting and grabbing information from the internet such as the tempature.
+
 
 
 
