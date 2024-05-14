@@ -29,7 +29,7 @@ server should be compatibale with any device that can connect to the internet.
 
 iot would be part of connecting and grabbing information from the internet such as the tempature, local time and brightness of day.
 
-
+libraries would have to be installed to save time and have the video recorder to work
 
 
 
