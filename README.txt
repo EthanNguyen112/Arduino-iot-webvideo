@@ -14,10 +14,12 @@ information can be viewed from any monitor that can connect to the cloud
 the cloud will have a user and password to it.
 
 
-
 Extra features if time avaliable:
 a sensor that will turn on and send a notification to the device
 
+libraries would have to be installed to save time and have the video recorder to work
+
+provided (https://github.com/indrekluuk/LiveOV7670)
 (youtube video based on)
 https://www.youtube.com/watch?v=R94WZH8XAvM&t=325s&ab_channel=Indrek
 
@@ -28,9 +30,6 @@ Part two would be creating a server possibly with IoT applications help with ESP
 server should be compatibale with any device that can connect to the internet.
 
 iot would be part of connecting and grabbing information from the internet such as the tempature, local time and brightness of day.
-
-libraries would have to be installed to save time and have the video recorder to work
-
 
 
 
