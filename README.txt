@@ -22,6 +22,7 @@ libraries would have to be installed to save time and have the video recorder to
 provided (https://github.com/indrekluuk/LiveOV7670)
 (youtube video based on)
 https://www.youtube.com/watch?v=R94WZH8XAvM&t=325s&ab_channel=Indrek
+This video will connect a little 128x160 pixal screen, I will be sending the information onto a the cloud
 
 Autodesk Fusion will be used to create the schematic
 
